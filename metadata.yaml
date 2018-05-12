@@ -1,0 +1,30 @@
+_repo: Prison-Memoirs-of-an-Anarchist_34406
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berkman, Alexander
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '37004'
+    url: http://www.gutenberg.org/2009/agents/37004
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Berkman
+description: ''
+gutenberg_issued: '2010-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Berkman, Alexander, 1870-1936'
+- !lcsh 'State Penitentiary for the Western District of Pennsylvania'
+- !lcsh 'Prisoners -- Pennsylvania -- Biography'
+- !lcsh 'Anarchists -- United States -- Biography'
+- !lcc 'HX'
+title: Prison Memoirs of an Anarchist
+url: http://www.gutenberg.org/ebooks/34406
